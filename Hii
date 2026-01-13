@@ -1,41 +1,0 @@
-<!DOCTYPE html>
-<html lang="ur">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>میری ویب سائٹ</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f0f8ff;
-        }
-        h1 {
-            color: #2c3e50;
-            margin-bottom: 20px;
-        }
-        p {
-            color: #34495e;
-            font-size: 18px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🎉 آپ کی ویب سائٹ لائیو ہو گئی ہے!</h1>
-        <p>مبارک ہو! آپ نے کامیابی سے اپنی پہلی ویب سائٹ GitHub Pages پر بنا لی ہے۔</p>
-        <p>اس ویب سائٹ کا پتہ ہے: <strong>https://آپکا-username.github.io</strong></p>
-        <p>اب آپ اس میں تبدیلی کر سکتے ہیں، اپنا مواد ڈال سکتے ہیں، یا اسے بیچ سکتے ہیں۔</p>
-        <p>🚀 آن لائن کمائی کا سفر یہاں سے شروع ہوتا ہے!</p>
-    </div>
-</body>
-</html>
